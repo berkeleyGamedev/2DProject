@@ -9835,7 +9835,7 @@ MonoBehaviour:
   m_GameObject: {fileID: 1830235140461284}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 9976e2c3069974824b43fd6e36853ea6, type: 3}
+  m_Script: {fileID: 11500000, guid: 10244581d3dcc4670964bacd75c6bafb, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
 --- !u!1 &1780571808128541346
@@ -12000,3 +12000,4 @@ TilemapCollider2D:
   m_UsedByEffector: 0
   m_UsedByComposite: 1
   m_Offset: {x: 0, y: 0}
+  m_MaximumTileChangeCount: 1000
